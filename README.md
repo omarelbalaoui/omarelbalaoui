@@ -1,3 +1,6 @@
-<h1>Omar El Balaoui</h1>
-<h2>Benvingut al meu nou repositori</h2>
-<h3>Aquest repositori esta creat per a MP10</h3>
+#Omar El Balaoui
+##Benvingut al meu nou repositori
+Aquest repositori esta creat per a MP10
+
+http://github.com - automatic!
+[GitHub](http://github.com)
