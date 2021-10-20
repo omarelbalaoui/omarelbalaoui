@@ -2,5 +2,8 @@
 ##Benvingut al meu nou repositori
 Aquest repositori esta creat per a MP10
 
-http://github.com - automatic!
+######Xarxes Socials
+[Twitter](https://twitter.com/Alpha28x)
+[GitHub](http://github.com)
+[GitHub](http://github.com)
 [GitHub](http://github.com)
