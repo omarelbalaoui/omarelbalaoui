@@ -1,5 +1,5 @@
 # Omar El Balaoui
-# #Benvingut al meu nou repositori
+## Benvingut al meu nou repositori
 Aquest repositori esta creat per a MP10
 
 ##### Xarxes Socials
