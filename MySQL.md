@@ -85,7 +85,6 @@
 
 ![Selecció_2088](https://user-images.githubusercontent.com/82141541/171624612-8493a926-39c5-43f2-b75f-e84b65c337d0.png)
 
-<h4>PHPStorm</h4>
 <p>Creem la carpeta on volem guardar el nostre projecte i executem la comanda phpstorm per obrir aquesta carpeta amb el projecte:</p>
 
 ![Selecció_2091](https://user-images.githubusercontent.com/82141541/171625019-db3e2ba3-f4ed-4564-b868-328cf40d355d.png)
@@ -97,6 +96,8 @@
 ![Selecció_2093](https://user-images.githubusercontent.com/82141541/171625152-e2cc76d4-0be7-4af1-907c-8d7580dd8481.png)
 
 <p>Aquest es el contingut del fitxer "index.pp"</p>
+
+![Selecció_453](https://user-images.githubusercontent.com/82141541/171628661-c91aed3d-fae6-4e88-8214-9cd123f551b1.png)
 
 <p>Executem aquest fitxer com a servidor i com es veu ens mostra el missatge correctament:</p>
 
