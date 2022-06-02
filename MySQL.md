@@ -4,5 +4,8 @@
 <p>Per començar aquesta instal·lació anem a actualitzar el sistema amb les comandes "apt-get update" i "apt-get upgrade"</p>
 
 <h4>Entorn de comandes</h4>
-<p>A continuació instal·lem e</p>
+<p>A continuació instal·lem el server mysql amb la següent comanda:</p>
+![Selecció_2061](https://user-images.githubusercontent.com/82141541/171621459-dba25732-f008-4afc-8cfe-a2c5950fd076.png)
+
+
   
