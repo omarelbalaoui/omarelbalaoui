@@ -44,11 +44,13 @@
 
 ![Selecció_2076](https://user-images.githubusercontent.com/82141541/171623031-1fcdd878-3237-4481-a1d8-1a5801982a7c.png)
 
-<p>
+<p>Afegim l'usuari i la contraseña per accedir al servidor:</p>
 
+![Selecció_452](https://user-images.githubusercontent.com/82141541/171626975-987ebf82-fce6-4d9d-bbcf-4a897a806f93.png)
 
+<p>Una vegada hem indicat les credencials podem veure que accedirm correctament al servidor:</p>
 
-</p>
+![Selecció_451](https://user-images.githubusercontent.com/82141541/171627210-3a2b3a11-e3f8-4806-b2ca-32c2e16c1d97.png)
 
 <h4>PHP Storm</h4>
 <p>Anem a la tool box i iniciem aquest programa:</p>
