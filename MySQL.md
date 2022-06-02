@@ -5,7 +5,6 @@
 
 <h4>Entorn de comandes</h4>
 <p>A continuació instal·lem el server mysql amb la següent comanda:</p>
-![Selecció_2061](https://user-images.githubusercontent.com/82141541/171621459-dba25732-f008-4afc-8cfe-a2c5950fd076.png)
-
+![Selecció_2061](https://user-images.githubusercontent.com/82141541/171621533-c457c40c-d5c9-4b39-adf8-a4d5eb6fc019.png)
 
   
